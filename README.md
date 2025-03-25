@@ -7,4 +7,10 @@
 - **Search & Filters** – Search by name, location, or description. Sort by price, rating, or location.
 - **User Accounts** – Sign up and save favorite hotels for later.
 
+## Technologies Used 🛠️
+- React.js
+- Firebase
+- HTML
+- CSS
+
 https://lab5-4006f.web.app/
